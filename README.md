@@ -44,7 +44,6 @@ https://github.com/jihoahn9303/FNCSP_Consulting_Platform/assets/48744746/64f5474
 
   * 기업 정보 요약 결과 샘플: `기업컨설팅_정보요약결과(나노에이스).pdf`
   
-  * 기업 정보 요약 코드: `code` 폴더 참고
 
 
 
